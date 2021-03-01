@@ -4,7 +4,10 @@ aqui voy a adicion cuarta version
 voy a hacer mi segunda version
 
 voy a hace mi tercera vesion
+<<<<<<< HEAD
 
 quinta version desde la web
 
 sexta version
+=======
+>>>>>>> parent of 6d83742 (quinta version desde web)
